@@ -1,0 +1,117 @@
+ETH Price: $3,504.48 (-1.27%)
+Gas: 0.002 Gwei
+Search by Address / Txn Hash / Block / Token / Domain Name
+/
+BaseScan Logo
+Home
+Blockchain
+Transactions
+Latest L1→L2 Transactions
+Latest L2→L1 Transactions
+Contract Internal Transactions
+AA Transactions Beta
+EIP-7702 Authorizations Beta
+View Blocks
+View L1 Transaction Batches
+View L1 State Batches
+Top Accounts
+Verified Contracts
+Tokens
+Top Tokens (ERC-20)
+Token Transfers (ERC-20)
+Token Flow Visualizer
+Beta
+NFTs
+Latest Transfers
+Latest Mints
+Resources
+Charts & Stats
+Developers
+API Plans 
+API Documentation
+Code Reader Beta
+Verify Contract
+Similar Contract Search
+Contract Diff Checker
+Vyper Online Compiler
+Bytecode to Opcode
+Broadcast Transaction
+More
+Tools & Services
+Discover more of BaseScan's tools and services in one place.
+
+Tools
+Input Data Decoder Beta
+Unit Converter
+CSV Export
+Account Balance Checker
+Explore
+Gas Tracker
+Label Cloud
+Domain Name Lookup
+Services
+Token Approvals Beta
+Verified Signature
+Advanced Filter Beta
+|
+ Sign In
+Transaction Details
+ 
+Featured: Access data from 50+ chain IDs with a single API key using ⛓️ Etherscan API V2.
+Overview
+State
+Transaction Action
+Call
+0x60806040
+Method by
+0xd657131e...1c40eD74B
+Transaction Hash:
+0x59d549b9cbf3b7b9e80077dd2c43f896fae3000c49a962e092c0433704869551 
+Status:
+Success
+Block:
+38101105 Confirmed by Sequencer
+Timestamp:
+12 hrs ago (Nov-12-2025 11:52:37 PM +UTC)
+Sponsored:
+
+From:
+0xd657131eD517C53EAbAeb2F0ee66dE91c40eD74B
+To:
+[  0x2ea259ccd2e983f9e635f138b28655d62127f6bb Created ] 
+Value:
+0 ETH
+($0.00)
+Transaction Fee:
+0.000026704429027416 ETH ($0.09)
+Gas Price:
+0.028665811 Gwei (0.000000000028665811 ETH)
+More Details:
+ Click to show more
+Private Note:
+To access the Private Note feature, you must be Logged In
+A transaction is a cryptographically signed instruction that changes the blockchain state. Block explorers track the details of all transactions in the network. Learn more about transactions in our Knowledge Base.
+
+Back to Top
+Base Logo
+Powered By Base
+Basescan is a Block Explorer and Analytics Platform for Base
+
+Company
+Brand Assets
+Contact Us
+Terms & Privacy
+Bug Bounty 
+Community
+API Documentation
+Knowledge Base
+Network Status
+Products & Services
+Advertise 
+Explorer as a Service (EaaS) 
+API Plans 
+Priority Support
+Blockscan 
+BaseScan © 2025 (BASE-B1) | ⛏ Built by Team Etherscan
+
+Donations: 0x71c765...d8976f 

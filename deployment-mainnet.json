@@ -1,0 +1,11 @@
+{
+  "network": "base-mainnet",
+  "chainId": 8453,
+  "contract": "CoinRegistry",
+  "address": "0x2ea259ccD2e983f9E635f138b28655d62127F6Bb",
+  "platformWallet": "0xd657131eD517C53EAbAeb2F0ee66dE91c40eD74B",
+  "deployer": "0xd657131eD517C53EAbAeb2F0ee66dE91c40eD74B",
+  "timestamp": "2025-11-12T23:52:40.630Z",
+  "txHash": "0x59d549b9cbf3b7b9e80077dd2c43f896fae3000c49a962e092c0433704869551",
+  "verified": false
+}

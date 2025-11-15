@@ -1,0 +1,49 @@
+notification-bell.tsx:60 
+ GET https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/api/e1xp/notifications 401 (Unauthorized)
+queryFn	@	notification-bell.tsx:60
+await in queryFn		
+fetchFn	@	chunk-7X75LGXT.js?v=aa8227a0:840
+run	@	chunk-7X75LGXT.js?v=aa8227a0:494
+start	@	chunk-7X75LGXT.js?v=aa8227a0:536
+fetch	@	chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn	@	chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous)	@	chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval		
+updateRefetchInterval_fn	@	chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn	@	chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate	@	chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous)	@	chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous)	@	chunk-7X75LGXT.js?v=aa8227a0:997
+batch	@	chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn	@	chunk-7X75LGXT.js?v=aa8227a0:996
+onError	@	chunk-7X75LGXT.js?v=aa8227a0:861
+reject	@	chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous)	@	chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch		
+run	@	chunk-7X75LGXT.js?v=aa8227a0:498
+start	@	chunk-7X75LGXT.js?v=aa8227a0:536
+fetch	@	chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn	@	chunk-7X75LGXT.js?v=aa8227a0:2211
+setOptions	@	chunk-7X75LGXT.js?v=aa8227a0:1955
+(anonymous)	@	chunk-7X75LGXT.js?v=aa8227a0:3032
+commitHookEffectListMount	@	chunk-Z2GUPSCO.js?v=aa8227a0:16915
+commitPassiveMountOnFiber	@	chunk-Z2GUPSCO.js?v=aa8227a0:18156
+commitPassiveMountEffects_complete	@	chunk-Z2GUPSCO.js?v=aa8227a0:18129
+commitPassiveMountEffects_begin	@	chunk-Z2GUPSCO.js?v=aa8227a0:18119
+commitPassiveMountEffects	@	chunk-Z2GUPSCO.js?v=aa8227a0:18109
+flushPassiveEffectsImpl	@	chunk-Z2GUPSCO.js?v=aa8227a0:19490
+flushPassiveEffects	@	chunk-Z2GUPSCO.js?v=aa8227a0:19447
+performSyncWorkOnRoot	@	chunk-Z2GUPSCO.js?v=aa8227a0:18868
+flushSyncCallbacks	@	chunk-Z2GUPSCO.js?v=aa8227a0:9119
+commitRootImpl	@	chunk-Z2GUPSCO.js?v=aa8227a0:19432
+commitRoot	@	chunk-Z2GUPSCO.js?v=aa8227a0:19277
+finishConcurrentRender	@	chunk-Z2GUPSCO.js?v=aa8227a0:18805
+performConcurrentWorkOnRoot	@	chunk-Z2GUPSCO.js?v=aa8227a0:18718
+workLoop	@	chunk-Z2GUPSCO.js?v=aa8227a0:197
+flushWork	@	chunk-Z2GUPSCO.js?v=aa8227a0:176
+performWorkUntilDeadline	@	chunk-Z2GUPSCO.js?v=aa8227a0:384
+
+notification-bell.tsx:60 
+ GET https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/api/e1xp/notifications 401 (Unauthorized)
+﻿
+

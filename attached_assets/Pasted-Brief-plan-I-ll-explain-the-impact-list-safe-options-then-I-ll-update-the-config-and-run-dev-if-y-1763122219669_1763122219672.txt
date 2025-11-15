@@ -1,0 +1,42 @@
+Brief plan: I'll explain the impact, list safe options, then I'll update the config and run dev if you want.
+
+Answer — will changing embeddedWallets.ethereum.createOnLogin affect rewards, the DB, or existing users?
+
+Short answer: No, it won't directly change your database or existing rewards. It only changes whether Privy automatically creates an embedded wallet for users at login. The data already stored (user rows, reward records, privy IDs) stays intact.
+
+What it does change (important effects):
+
+New embedded wallet creation behavior:
+If you change from 'all-users' (current) to another mode, Privy will stop auto-creating embedded wallets for whatever subset you select. That means some users (typically email-only logins) won't receive an embedded wallet automatically.
+Downstream UX & processes:
+Smart-account initialization in SmartAccountContext.tsx depends on an embedded wallet being present. If no embedded wallet is created, the smart-account init will not run for those users until a wallet exists (wallet login or manual creation).
+Any flows that assume a non-null address for a logged-in user will change behavior. Your code already accounts for address || null in AuthHandler, but features requiring an on-chain owner (deploying coins, claiming gasless transactions) may be disabled or delayed for those users.
+Rewards/system actions:
+The welcome/daily-login bonus flow posts to /api/login-streak/check-in with {privyId, address: address || null}. Since the server accepts a null address (code uses privyId as primary), rewards should still be awarded for email users — those flows rely on the Privy user id and server-side logic, not embedded wallet presence.
+However, any reward or payout workflows that use the embedded wallet address to set payout destinations or auto-deploy on-chain will be affected: they’ll either use a null/placeholder or require the user to provide a payout address.
+Existing users:
+Existing users who already have an embedded wallet or smart account are unaffected. Their wallets/smart accounts remain.
+Database:
+No schema or existing rows are changed by toggling this config. The app may create fewer smart-account-related rows going forward if you stop auto-creating wallets, but existing reward records and profiles are unchanged.
+Recommended modes and tradeoffs
+
+'all-users' (current): creates embedded wallets for everyone (fastest UX for email users). Pros: smooth gasless onboarding. Cons: creates lots of wallets; some may be unused.
+'new-users': create embedded wallets only for newly created accounts after you switch. Pros: existing users unaffected; new signups get wallet automatically. Good middle ground.
+'wallet-only' (or equivalent): only create embedded wallets when user uses wallet login. Pros: minimal wallet creation. Cons: email-only users must explicitly create/opt-in for wallet functionality; may degrade UX.
+disable embedded creation: safest to avoid wallet footprint; requires explicit wallet creation later.
+Safe operational guidance
+
+If you switch to fewer automatic creations, add UI messaging telling email users they need to "Create embedded wallet" to use on-chain features.
+Keep the server-side logic tolerant of null addresses (it already appears to do so).
+If you want minimal disruption, choose 'new-users' so current users keep their wallets and you only change future signups.
+Do you want me to:
+
+A) Change embeddedWallets.ethereum.createOnLogin to 'new-users' and restart the dev server to test (recommended), or
+B) Change it to 'wallet-only' or disable, and test, or
+C) Not change anything and instead add a UI prompt that waits for wallet creation and explains delay.
+If you pick A or B I will:
+
+Update privy-provider.tsx.
+Restart the dev server and report whether embedded wallets are created for new logins and whether SmartAccountContext still behaves (I’ll test by simulating a login flow).
+Provide exact code diff and how to revert.
+Which option do you want me to apply?

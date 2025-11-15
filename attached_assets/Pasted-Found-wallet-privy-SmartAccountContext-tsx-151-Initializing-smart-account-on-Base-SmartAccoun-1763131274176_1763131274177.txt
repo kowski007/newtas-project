@@ -1,0 +1,50 @@
+Found wallet: privy
+SmartAccountContext.tsx:151 🔐 Initializing smart account on Base...
+SmartAccountContext.tsx:152 📡 Using Pimlico Paymaster: Base Mainnet
+SmartAccountContext.tsx:169 👤 Owner address: 0x2436cC410ac16BEC6A059d76C168decCe78e9Db0
+SmartAccountContext.tsx:221 ❌ Failed to initialize smart account: ReferenceError: walletClient is not defined
+    at SmartAccountContext.tsx:174:16
+(anonymous) @ SmartAccountContext.tsx:221
+await in (anonymous)
+(anonymous) @ SmartAccountContext.tsx:279
+commitHookEffectListMount @ chunk-Z2GUPSCO.js?v=aa8227a0:16915
+commitPassiveMountOnFiber @ chunk-Z2GUPSCO.js?v=aa8227a0:18156
+commitPassiveMountEffects_complete @ chunk-Z2GUPSCO.js?v=aa8227a0:18129
+commitPassiveMountEffects_begin @ chunk-Z2GUPSCO.js?v=aa8227a0:18119
+commitPassiveMountEffects @ chunk-Z2GUPSCO.js?v=aa8227a0:18109
+flushPassiveEffectsImpl @ chunk-Z2GUPSCO.js?v=aa8227a0:19490
+flushPassiveEffects @ chunk-Z2GUPSCO.js?v=aa8227a0:19447
+(anonymous) @ chunk-Z2GUPSCO.js?v=aa8227a0:19328
+workLoop @ chunk-Z2GUPSCO.js?v=aa8227a0:197
+flushWork @ chunk-Z2GUPSCO.js?v=aa8227a0:176
+performWorkUntilDeadline @ chunk-Z2GUPSCO.js?v=aa8227a0:384Understand this error
+2socket-client.ts:38 ✅ Socket connected
+app-layout.tsx:344 [AppLayout] Unread message count: 0
+@privy-io_react-auth.js?v=aa8227a0:78678 Base Account SDK Initialized
+chunk-S6EXHY4W.js?v=aa8227a0:23 Lit is in dev mode. Not recommended for production! See https://lit.dev/msg/dev-mode for more information.
+issueWarning @ chunk-S6EXHY4W.js?v=aa8227a0:23
+(anonymous) @ chunk-S6EXHY4W.js?v=aa8227a0:28Understand this warning
+provider.ts:319 -> req {method: 'eth_accounts'}
+provider.ts:358 <- res []
+app-layout.tsx:344 [AppLayout] Unread message count: 0
+chunk-BS7PNIHB.js?v=aa8227a0:339 Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+(anonymous) @ chunk-BS7PNIHB.js?v=aa8227a0:339
+commitHookEffectListMount @ chunk-Z2GUPSCO.js?v=aa8227a0:16915
+commitPassiveMountOnFiber @ chunk-Z2GUPSCO.js?v=aa8227a0:18156
+commitPassiveMountEffects_complete @ chunk-Z2GUPSCO.js?v=aa8227a0:18129
+commitPassiveMountEffects_begin @ chunk-Z2GUPSCO.js?v=aa8227a0:18119
+commitPassiveMountEffects @ chunk-Z2GUPSCO.js?v=aa8227a0:18109
+flushPassiveEffectsImpl @ chunk-Z2GUPSCO.js?v=aa8227a0:19490
+flushPassiveEffects @ chunk-Z2GUPSCO.js?v=aa8227a0:19447
+commitRootImpl @ chunk-Z2GUPSCO.js?v=aa8227a0:19416
+commitRoot @ chunk-Z2GUPSCO.js?v=aa8227a0:19277
+performSyncWorkOnRoot @ chunk-Z2GUPSCO.js?v=aa8227a0:18895
+flushSyncCallbacks @ chunk-Z2GUPSCO.js?v=aa8227a0:9119
+commitRootImpl @ chunk-Z2GUPSCO.js?v=aa8227a0:19432
+commitRoot @ chunk-Z2GUPSCO.js?v=aa8227a0:19277
+finishConcurrentRender @ chunk-Z2GUPSCO.js?v=aa8227a0:18805
+performConcurrentWorkOnRoot @ chunk-Z2GUPSCO.js?v=aa8227a0:18718
+workLoop @ chunk-Z2GUPSCO.js?v=aa8227a0:197
+flushWork @ chunk-Z2GUPSCO.js?v=aa8227a0:176
+performWorkUntilDeadline @ chunk-Z2GUPSCO.js?v=aa8227a0:384Understand this warning
+app-layout.tsx:344 [AppLayout] Unread message count: 0

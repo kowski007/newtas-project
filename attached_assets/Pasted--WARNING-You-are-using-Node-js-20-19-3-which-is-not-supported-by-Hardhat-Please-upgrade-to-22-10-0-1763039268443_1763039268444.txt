@@ -1,0 +1,47 @@
+
+WARNING: You are using Node.js 20.19.3 which is not supported by Hardhat.
+Please upgrade to 22.10.0 or a later LTS version (even major version number)
+
+An unexpected error occurred:
+
+Error: Cannot find module '@nomicfoundation/hardhat-chai-matchers'
+Require stack:
+- /home/runner/workspace/node_modules/@nomicfoundation/hardhat-toolbox/index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1212:15)
+    at m._resolveFilename (file:///home/runner/workspace/node_modules/tsx/dist/register-B7jrtLTO.mjs:1:789)
+    at Module._load (node:internal/modules/cjs/loader:1043:27)
+    at Module.require (node:internal/modules/cjs/loader:1298:19)
+    at require (node:internal/modules/helpers:182:18)
+    at Object.<anonymous> (/home/runner/workspace/node_modules/@nomicfoundation/hardhat-toolbox/src/index.ts:1:1)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32)
+    at Module._load (node:internal/modules/cjs/loader:1096:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/runner/workspace/node_modules/@nomicfoundation/hardhat-toolbox/index.js'
+  ]
+}
+
+If you think this is a bug in Hardhat, please report it here: https://hardhat.org/report-bug
+
+Unhandled promise rejection:
+
+Error: Cannot find module '@nomicfoundation/hardhat-chai-matchers'
+Require stack:
+- /home/runner/workspace/node_modules/@nomicfoundation/hardhat-toolbox/index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1212:15)
+    at m._resolveFilename (file:///home/runner/workspace/node_modules/tsx/dist/register-B7jrtLTO.mjs:1:789)
+    at Module._load (node:internal/modules/cjs/loader:1043:27)
+    at Module.require (node:internal/modules/cjs/loader:1298:19)
+    at require (node:internal/modules/helpers:182:18)
+    at Object.<anonymous> (/home/runner/workspace/node_modules/@nomicfoundation/hardhat-toolbox/src/index.ts:1:1)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32)
+    at Module._load (node:internal/modules/cjs/loader:1096:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/runner/workspace/node_modules/@nomicfoundation/hardhat-toolbox/index.js'
+  ]
+}

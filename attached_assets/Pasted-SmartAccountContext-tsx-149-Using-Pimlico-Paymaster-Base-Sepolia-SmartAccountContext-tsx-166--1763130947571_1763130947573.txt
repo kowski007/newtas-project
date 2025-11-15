@@ -1,0 +1,90 @@
+SmartAccountContext.tsx:149 📡 Using Pimlico Paymaster: Base Sepolia
+SmartAccountContext.tsx:166 👤 Owner address: 0x2436cC410ac16BEC6A059d76C168decCe78e9Db0
+socket-client.ts:38 ✅ Socket connected
+SmartAccountContext.tsx:185 ✅ Smart account created: 0x1f9c06705A88b7886b2433E9F531F43f3366081A
+SmartAccountContext.tsx:220 ✅ Smart account client ready
+SmartAccountContext.tsx:221 📍 Smart account address: 0x1f9c06705A88b7886b2433E9F531F43f3366081A
+2socket-client.ts:38 ✅ Socket connected
+chunk-S6EXHY4W.js?v=aa8227a0:23 Lit is in dev mode. Not recommended for production! See https://lit.dev/msg/dev-mode for more information.
+issueWarning @ chunk-S6EXHY4W.js?v=aa8227a0:23Understand this warning
+provider.ts:319 -> req Object
+provider.ts:358 <- res Array(0)
+6app-layout.tsx:344 [AppLayout] Unread message count: 0
+chunk-BS7PNIHB.js?v=aa8227a0:339 Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+(anonymous) @ chunk-BS7PNIHB.js?v=aa8227a0:339Understand this warning
+app-layout.tsx:344 [AppLayout] Unread message count: 0
+content-preview.tsx:74 🚀 Creating coin on chain: Base Sepolia
+content-preview.tsx:107 📤 Uploading metadata to IPFS...
+pinata.ts:4 PINATA_JWT available: true
+pinata.ts:5 Environment variables: Object
+content-preview.tsx:109 ✅ Metadata uploaded: ipfs://QmPnq7LWJmMy76ikZWGNEvdZjn5YWDqi8KokHkETgvKVQP
+content-preview.tsx:112 💾 Creating database record...
+content-preview.tsx:116 📍 Using creator wallet address: 0x2436cC410ac16BEC6A059d76C168decCe78e9Db0
+content-preview.tsx:134 ✅ Database record created: 48ceac5d-8199-425d-88f7-af8139e2b37b
+content-preview.tsx:137 💸 Using GASLESS deployment for ALL users!
+content-preview.tsx:138 📍 Smart wallet address: 0x1f9c06705A88b7886b2433E9F531F43f3366081A
+content-preview.tsx:139 ✅ Gas fees will be sponsored by Base Paymaster (FREE)
+gasless-deployment.ts:94 🪙 [Gasless] Deploying coin with params: Object
+gasless-deployment.ts:109 📡 [Gasless] Using network: Base Sepolia (Chain ID: 84532)
+gasless-deployment.ts:110 📍 [Gasless] Smart account address: 0x1f9c06705A88b7886b2433E9F531F43f3366081A
+gasless-deployment.ts:111 💰 [Gasless] Payout recipient: 0x1f9c06705A88b7886b2433E9F531F43f3366081A
+gasless-deployment.ts:119 📤 [Gasless] Deploying coin using DIRECT contract call...
+gasless-deployment.ts:120 ⚠️  [Gasless] Gas will be sponsored by Base Paymaster
+zora-coins.ts:184 🪙 Creating coin with params: Object
+zora-coins.ts:193 📡 Using network: Base Sepolia (Chain ID: 84532)
+zora-coins.ts:194 💰 Pairing currency: ZORA (consistent across all networks)
+zora-coins.ts:206 💰 Checking ZORA token balance for: 0x1f9c06705A88b7886b2433E9F531F43f3366081A
+zora-coins.ts:214 💰 ZORA balance: 0
+zora-coins.ts:325 ❌ Coin creation failed: Error: ❌ No ZORA tokens available!
+
+Your wallet 0x1f9c06705A88b7886b2433E9F531F43f3366081A needs ZORA tokens to create a coin on Base Sepolia.
+
+Get test ZORA tokens from:
+🔗 https://bridge.zora.energy/ (Bridge from Ethereum Sepolia)
+🔗 Or use a faucet to get Sepolia ETH first, then bridge to ZORA
+    at createCoinOnBaseSepolia (zora-coins.ts:221:13)
+    at async deployGaslessCoin (gasless-deployment.ts:125:26)
+    at async Object.mutationFn (content-preview.tsx:141:28)
+createCoinOnBaseSepolia @ zora-coins.ts:325Understand this error
+zora-coins.ts:328 Error message: ❌ No ZORA tokens available!
+
+Your wallet 0x1f9c06705A88b7886b2433E9F531F43f3366081A needs ZORA tokens to create a coin on Base Sepolia.
+
+Get test ZORA tokens from:
+🔗 https://bridge.zora.energy/ (Bridge from Ethereum Sepolia)
+🔗 Or use a faucet to get Sepolia ETH first, then bridge to ZORA
+createCoinOnBaseSepolia @ zora-coins.ts:328Understand this error
+zora-coins.ts:329 Error stack: Error: ❌ No ZORA tokens available!
+
+Your wallet 0x1f9c06705A88b7886b2433E9F531F43f3366081A needs ZORA tokens to create a coin on Base Sepolia.
+
+Get test ZORA tokens from:
+🔗 https://bridge.zora.energy/ (Bridge from Ethereum Sepolia)
+🔗 Or use a faucet to get Sepolia ETH first, then bridge to ZORA
+    at createCoinOnBaseSepolia (https://452413d8-4ade-499a-a9f9-87026abb750a-00-2vm13cbyx25hy.picard.replit.dev/src/lib/zora-coins.ts:158:13)
+    at async deployGaslessCoin (https://452413d8-4ade-499a-a9f9-87026abb750a-00-2vm13cbyx25hy.picard.replit.dev/src/lib/gasless-deployment.ts:77:26)
+    at async Object.mutationFn (https://452413d8-4ade-499a-a9f9-87026abb750a-00-2vm13cbyx25hy.picard.replit.dev/src/components/content-preview.tsx:113:28)
+createCoinOnBaseSepolia @ zora-coins.ts:329Understand this error
+gasless-deployment.ts:163 ❌ [Gasless] Coin deployment failed: Error: ❌ No ZORA tokens available!
+
+Your wallet 0x1f9c06705A88b7886b2433E9F531F43f3366081A needs ZORA tokens to create a coin on Base Sepolia.
+
+Get test ZORA tokens from:
+🔗 https://bridge.zora.energy/ (Bridge from Ethereum Sepolia)
+🔗 Or use a faucet to get Sepolia ETH first, then bridge to ZORA
+    at createCoinOnBaseSepolia (zora-coins.ts:221:13)
+    at async deployGaslessCoin (gasless-deployment.ts:125:26)
+    at async Object.mutationFn (content-preview.tsx:141:28)
+deployGaslessCoin @ gasless-deployment.ts:163Understand this error
+content-preview.tsx:204 ❌ Coin creation failed: Error: ❌ No ZORA tokens available!
+
+Your wallet 0x1f9c06705A88b7886b2433E9F531F43f3366081A needs ZORA tokens to create a coin on Base Sepolia.
+
+Get test ZORA tokens from:
+🔗 https://bridge.zora.energy/ (Bridge from Ethereum Sepolia)
+🔗 Or use a faucet to get Sepolia ETH first, then bridge to ZORA
+    at createCoinOnBaseSepolia (zora-coins.ts:221:13)
+    at async deployGaslessCoin (gasless-deployment.ts:125:26)
+    at async Object.mutationFn (content-preview.tsx:141:28)
+onError @ content-preview.tsx:204Understand this error
+app-layout.tsx:344 [AppLayout] Unread message count: 0

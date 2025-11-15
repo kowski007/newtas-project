@@ -1,0 +1,233 @@
+💼 Found wallet: privy
+SmartAccountContext.tsx:151 🔐 Initializing smart account on Base...
+SmartAccountContext.tsx:152 📡 Using Pimlico Paymaster: Base Mainnet
+SmartAccountContext.tsx:169 👤 Owner address: 0x2436cC410ac16BEC6A059d76C168decCe78e9Db0
+socket-client.ts:38 ✅ Socket connected
+SmartAccountContext.tsx:188 ✅ Smart account created: 0x1f9c06705A88b7886b2433E9F531F43f3366081A
+SmartAccountContext.tsx:223 ✅ Smart account client ready
+SmartAccountContext.tsx:224 📍 Smart account address: 0x1f9c06705A88b7886b2433E9F531F43f3366081A
+socket-client.ts:38 ✅ Socket connected
+7app-layout.tsx:344 [AppLayout] Unread message count: 0
+chunk-BS7PNIHB.js?v=aa8227a0:339 Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+(anonymous) @ chunk-BS7PNIHB.js?v=aa8227a0:339
+commitHookEffectListMount @ chunk-Z2GUPSCO.js?v=aa8227a0:16915
+commitPassiveMountOnFiber @ chunk-Z2GUPSCO.js?v=aa8227a0:18156
+commitPassiveMountEffects_complete @ chunk-Z2GUPSCO.js?v=aa8227a0:18129
+commitPassiveMountEffects_begin @ chunk-Z2GUPSCO.js?v=aa8227a0:18119
+commitPassiveMountEffects @ chunk-Z2GUPSCO.js?v=aa8227a0:18109
+flushPassiveEffectsImpl @ chunk-Z2GUPSCO.js?v=aa8227a0:19490
+flushPassiveEffects @ chunk-Z2GUPSCO.js?v=aa8227a0:19447
+commitRootImpl @ chunk-Z2GUPSCO.js?v=aa8227a0:19416
+commitRoot @ chunk-Z2GUPSCO.js?v=aa8227a0:19277
+performSyncWorkOnRoot @ chunk-Z2GUPSCO.js?v=aa8227a0:18895
+flushSyncCallbacks @ chunk-Z2GUPSCO.js?v=aa8227a0:9119
+commitRootImpl @ chunk-Z2GUPSCO.js?v=aa8227a0:19432
+commitRoot @ chunk-Z2GUPSCO.js?v=aa8227a0:19277
+finishConcurrentRender @ chunk-Z2GUPSCO.js?v=aa8227a0:18805
+performConcurrentWorkOnRoot @ chunk-Z2GUPSCO.js?v=aa8227a0:18718
+workLoop @ chunk-Z2GUPSCO.js?v=aa8227a0:197
+flushWork @ chunk-Z2GUPSCO.js?v=aa8227a0:176
+performWorkUntilDeadline @ chunk-Z2GUPSCO.js?v=aa8227a0:384Understand this warning
+content-preview.tsx:74 🚀 Creating coin on chain: Base Mainnet
+content-preview.tsx:107 📤 Uploading metadata to IPFS...
+pinata.ts:4 PINATA_JWT available: true
+pinata.ts:5 Environment variables: {VITE_PINATA_JWT: true, VITE_PINATA_API_KEY: true, VITE_NEXT_PUBLIC_GATEWAY_URL: true}
+content-preview.tsx:109 ✅ Metadata uploaded: ipfs://QmQmia6tczg5ZaHVnyNHxYLfYtf6Z6V1MgM6z5nJ6797gU
+content-preview.tsx:112 💾 Creating database record...
+content-preview.tsx:116 📍 Using creator wallet address: 0x2436cC410ac16BEC6A059d76C168decCe78e9Db0
+app-layout.tsx:344 [AppLayout] Unread message count: 0
+content-preview.tsx:134 ✅ Database record created: a959277a-d5ac-4138-934a-c4cefcab4b54
+content-preview.tsx:137 💸 Using GASLESS deployment for ALL users!
+content-preview.tsx:138 📍 Smart wallet address: 0x1f9c06705A88b7886b2433E9F531F43f3366081A
+content-preview.tsx:139 ✅ Gas fees will be sponsored by Base Paymaster (FREE)
+gasless-deployment.ts:95 🪙 [Gasless] Deploying coin with params: {name: 'eone', symbol: 'EONE', metadataUri: 'ipfs://QmQmia6tczg5ZaHVnyNHxYLfYtf6Z6V1MgM6z5nJ6797gU', smartAccountAddress: '0x1f9c06705A88b7886b2433E9F531F43f3366081A', platformReferrer: '0xf25af781c4F1Df40Ac1D06e6B80c17815AD311F7'}
+gasless-deployment.ts:114 📡 [Gasless] Using network: Base (Chain ID: 8453)
+gasless-deployment.ts:115 📍 [Gasless] Smart account address: 0x1f9c06705A88b7886b2433E9F531F43f3366081A
+gasless-deployment.ts:116 💰 [Gasless] Payout recipient: 0x1f9c06705A88b7886b2433E9F531F43f3366081A
+gasless-deployment.ts:124 📤 [Gasless] Deploying coin using DIRECT contract call...
+gasless-deployment.ts:125 ⚠️  [Gasless] Gas will be sponsored by Base Paymaster
+gasless-deployment.ts:127 📡 [Gasless] Deploying on: Base Sepolia
+zora-coins.ts:184 🪙 Creating coin with params: {creator: '0x1f9c06705A88b7886b2433E9F531F43f3366081A', name: 'eone', symbol: 'EONE', metadataUri: 'ipfs://QmQmia6tczg5ZaHVnyNHxYLfYtf6Z6V1MgM6z5nJ6797gU', platformReferrer: '0xf25af781c4F1Df40Ac1D06e6B80c17815AD311F7'}
+zora-coins.ts:193 📡 Using network: Base Sepolia (Chain ID: 84532)
+zora-coins.ts:194 💰 Pairing currency: ZORA (consistent across all networks)
+zora-coins.ts:206 💰 Checking ZORA token balance for: 0x1f9c06705A88b7886b2433E9F531F43f3366081A
+zora-coins.ts:214 💰 ZORA balance: 0
+zora-coins.ts:325 ❌ Coin creation failed: Error: ❌ No ZORA tokens available!
+
+Your wallet 0x1f9c06705A88b7886b2433E9F531F43f3366081A needs ZORA tokens to create a coin on Base Sepolia.
+
+Get test ZORA tokens from:
+🔗 https://bridge.zora.energy/ (Bridge from Ethereum Sepolia)
+🔗 Or use a faucet to get Sepolia ETH first, then bridge to ZORA
+    at createCoinOnBaseSepolia (zora-coins.ts:221:13)
+    at async deployGaslessCoin (gasless-deployment.ts:130:20)
+    at async Object.mutationFn (content-preview.tsx:141:28)
+createCoinOnBaseSepolia @ zora-coins.ts:325
+await in createCoinOnBaseSepolia
+deployGaslessCoin @ gasless-deployment.ts:130
+mutationFn @ content-preview.tsx:141
+await in mutationFn
+fn @ chunk-7X75LGXT.js?v=aa8227a0:1189
+run @ chunk-7X75LGXT.js?v=aa8227a0:494
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+execute @ chunk-7X75LGXT.js?v=aa8227a0:1225
+await in execute
+mutate @ chunk-7X75LGXT.js?v=aa8227a0:2630
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:3295
+onClick @ content-preview.tsx:328
+callCallback2 @ chunk-Z2GUPSCO.js?v=aa8227a0:3674
+invokeGuardedCallbackDev @ chunk-Z2GUPSCO.js?v=aa8227a0:3699
+invokeGuardedCallback @ chunk-Z2GUPSCO.js?v=aa8227a0:3733
+invokeGuardedCallbackAndCatchFirstError @ chunk-Z2GUPSCO.js?v=aa8227a0:3736
+executeDispatch @ chunk-Z2GUPSCO.js?v=aa8227a0:7014
+processDispatchQueueItemsInOrder @ chunk-Z2GUPSCO.js?v=aa8227a0:7034
+processDispatchQueue @ chunk-Z2GUPSCO.js?v=aa8227a0:7043
+dispatchEventsForPlugins @ chunk-Z2GUPSCO.js?v=aa8227a0:7051
+(anonymous) @ chunk-Z2GUPSCO.js?v=aa8227a0:7174
+batchedUpdates$1 @ chunk-Z2GUPSCO.js?v=aa8227a0:18913
+batchedUpdates @ chunk-Z2GUPSCO.js?v=aa8227a0:3579
+dispatchEventForPluginEventSystem @ chunk-Z2GUPSCO.js?v=aa8227a0:7173
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-Z2GUPSCO.js?v=aa8227a0:5478
+dispatchEvent @ chunk-Z2GUPSCO.js?v=aa8227a0:5472
+dispatchDiscreteEvent @ chunk-Z2GUPSCO.js?v=aa8227a0:5449Understand this error
+zora-coins.ts:328 Error message: ❌ No ZORA tokens available!
+
+Your wallet 0x1f9c06705A88b7886b2433E9F531F43f3366081A needs ZORA tokens to create a coin on Base Sepolia.
+
+Get test ZORA tokens from:
+🔗 https://bridge.zora.energy/ (Bridge from Ethereum Sepolia)
+🔗 Or use a faucet to get Sepolia ETH first, then bridge to ZORA
+createCoinOnBaseSepolia @ zora-coins.ts:328
+await in createCoinOnBaseSepolia
+deployGaslessCoin @ gasless-deployment.ts:130
+mutationFn @ content-preview.tsx:141
+await in mutationFn
+fn @ chunk-7X75LGXT.js?v=aa8227a0:1189
+run @ chunk-7X75LGXT.js?v=aa8227a0:494
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+execute @ chunk-7X75LGXT.js?v=aa8227a0:1225
+await in execute
+mutate @ chunk-7X75LGXT.js?v=aa8227a0:2630
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:3295
+onClick @ content-preview.tsx:328
+callCallback2 @ chunk-Z2GUPSCO.js?v=aa8227a0:3674
+invokeGuardedCallbackDev @ chunk-Z2GUPSCO.js?v=aa8227a0:3699
+invokeGuardedCallback @ chunk-Z2GUPSCO.js?v=aa8227a0:3733
+invokeGuardedCallbackAndCatchFirstError @ chunk-Z2GUPSCO.js?v=aa8227a0:3736
+executeDispatch @ chunk-Z2GUPSCO.js?v=aa8227a0:7014
+processDispatchQueueItemsInOrder @ chunk-Z2GUPSCO.js?v=aa8227a0:7034
+processDispatchQueue @ chunk-Z2GUPSCO.js?v=aa8227a0:7043
+dispatchEventsForPlugins @ chunk-Z2GUPSCO.js?v=aa8227a0:7051
+(anonymous) @ chunk-Z2GUPSCO.js?v=aa8227a0:7174
+batchedUpdates$1 @ chunk-Z2GUPSCO.js?v=aa8227a0:18913
+batchedUpdates @ chunk-Z2GUPSCO.js?v=aa8227a0:3579
+dispatchEventForPluginEventSystem @ chunk-Z2GUPSCO.js?v=aa8227a0:7173
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-Z2GUPSCO.js?v=aa8227a0:5478
+dispatchEvent @ chunk-Z2GUPSCO.js?v=aa8227a0:5472
+dispatchDiscreteEvent @ chunk-Z2GUPSCO.js?v=aa8227a0:5449Understand this error
+zora-coins.ts:329 Error stack: Error: ❌ No ZORA tokens available!
+
+Your wallet 0x1f9c06705A88b7886b2433E9F531F43f3366081A needs ZORA tokens to create a coin on Base Sepolia.
+
+Get test ZORA tokens from:
+🔗 https://bridge.zora.energy/ (Bridge from Ethereum Sepolia)
+🔗 Or use a faucet to get Sepolia ETH first, then bridge to ZORA
+    at createCoinOnBaseSepolia (https://452413d8-4ade-499a-a9f9-87026abb750a-00-2vm13cbyx25hy.picard.replit.dev/src/lib/zora-coins.ts:158:13)
+    at async deployGaslessCoin (https://452413d8-4ade-499a-a9f9-87026abb750a-00-2vm13cbyx25hy.picard.replit.dev/src/lib/gasless-deployment.ts:79:20)
+    at async Object.mutationFn (https://452413d8-4ade-499a-a9f9-87026abb750a-00-2vm13cbyx25hy.picard.replit.dev/src/components/content-preview.tsx:113:28)
+createCoinOnBaseSepolia @ zora-coins.ts:329
+await in createCoinOnBaseSepolia
+deployGaslessCoin @ gasless-deployment.ts:130
+mutationFn @ content-preview.tsx:141
+await in mutationFn
+fn @ chunk-7X75LGXT.js?v=aa8227a0:1189
+run @ chunk-7X75LGXT.js?v=aa8227a0:494
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+execute @ chunk-7X75LGXT.js?v=aa8227a0:1225
+await in execute
+mutate @ chunk-7X75LGXT.js?v=aa8227a0:2630
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:3295
+onClick @ content-preview.tsx:328
+callCallback2 @ chunk-Z2GUPSCO.js?v=aa8227a0:3674
+invokeGuardedCallbackDev @ chunk-Z2GUPSCO.js?v=aa8227a0:3699
+invokeGuardedCallback @ chunk-Z2GUPSCO.js?v=aa8227a0:3733
+invokeGuardedCallbackAndCatchFirstError @ chunk-Z2GUPSCO.js?v=aa8227a0:3736
+executeDispatch @ chunk-Z2GUPSCO.js?v=aa8227a0:7014
+processDispatchQueueItemsInOrder @ chunk-Z2GUPSCO.js?v=aa8227a0:7034
+processDispatchQueue @ chunk-Z2GUPSCO.js?v=aa8227a0:7043
+dispatchEventsForPlugins @ chunk-Z2GUPSCO.js?v=aa8227a0:7051
+(anonymous) @ chunk-Z2GUPSCO.js?v=aa8227a0:7174
+batchedUpdates$1 @ chunk-Z2GUPSCO.js?v=aa8227a0:18913
+batchedUpdates @ chunk-Z2GUPSCO.js?v=aa8227a0:3579
+dispatchEventForPluginEventSystem @ chunk-Z2GUPSCO.js?v=aa8227a0:7173
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-Z2GUPSCO.js?v=aa8227a0:5478
+dispatchEvent @ chunk-Z2GUPSCO.js?v=aa8227a0:5472
+dispatchDiscreteEvent @ chunk-Z2GUPSCO.js?v=aa8227a0:5449Understand this error
+gasless-deployment.ts:168 ❌ [Gasless] Coin deployment failed: Error: ❌ No ZORA tokens available!
+
+Your wallet 0x1f9c06705A88b7886b2433E9F531F43f3366081A needs ZORA tokens to create a coin on Base Sepolia.
+
+Get test ZORA tokens from:
+🔗 https://bridge.zora.energy/ (Bridge from Ethereum Sepolia)
+🔗 Or use a faucet to get Sepolia ETH first, then bridge to ZORA
+    at createCoinOnBaseSepolia (zora-coins.ts:221:13)
+    at async deployGaslessCoin (gasless-deployment.ts:130:20)
+    at async Object.mutationFn (content-preview.tsx:141:28)
+deployGaslessCoin @ gasless-deployment.ts:168
+await in deployGaslessCoin
+mutationFn @ content-preview.tsx:141
+await in mutationFn
+fn @ chunk-7X75LGXT.js?v=aa8227a0:1189
+run @ chunk-7X75LGXT.js?v=aa8227a0:494
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+execute @ chunk-7X75LGXT.js?v=aa8227a0:1225
+await in execute
+mutate @ chunk-7X75LGXT.js?v=aa8227a0:2630
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:3295
+onClick @ content-preview.tsx:328
+callCallback2 @ chunk-Z2GUPSCO.js?v=aa8227a0:3674
+invokeGuardedCallbackDev @ chunk-Z2GUPSCO.js?v=aa8227a0:3699
+invokeGuardedCallback @ chunk-Z2GUPSCO.js?v=aa8227a0:3733
+invokeGuardedCallbackAndCatchFirstError @ chunk-Z2GUPSCO.js?v=aa8227a0:3736
+executeDispatch @ chunk-Z2GUPSCO.js?v=aa8227a0:7014
+processDispatchQueueItemsInOrder @ chunk-Z2GUPSCO.js?v=aa8227a0:7034
+processDispatchQueue @ chunk-Z2GUPSCO.js?v=aa8227a0:7043
+dispatchEventsForPlugins @ chunk-Z2GUPSCO.js?v=aa8227a0:7051
+(anonymous) @ chunk-Z2GUPSCO.js?v=aa8227a0:7174
+batchedUpdates$1 @ chunk-Z2GUPSCO.js?v=aa8227a0:18913
+batchedUpdates @ chunk-Z2GUPSCO.js?v=aa8227a0:3579
+dispatchEventForPluginEventSystem @ chunk-Z2GUPSCO.js?v=aa8227a0:7173
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-Z2GUPSCO.js?v=aa8227a0:5478
+dispatchEvent @ chunk-Z2GUPSCO.js?v=aa8227a0:5472
+dispatchDiscreteEvent @ chunk-Z2GUPSCO.js?v=aa8227a0:5449Understand this error
+content-preview.tsx:204 ❌ Coin creation failed: Error: ❌ No ZORA tokens available!
+
+Your wallet 0x1f9c06705A88b7886b2433E9F531F43f3366081A needs ZORA tokens to create a coin on Base Sepolia.
+
+Get test ZORA tokens from:
+🔗 https://bridge.zora.energy/ (Bridge from Ethereum Sepolia)
+🔗 Or use a faucet to get Sepolia ETH first, then bridge to ZORA
+    at createCoinOnBaseSepolia (zora-coins.ts:221:13)
+    at async deployGaslessCoin (gasless-deployment.ts:130:20)
+    at async Object.mutationFn (content-preview.tsx:141:28)
+onError @ content-preview.tsx:204
+execute @ chunk-7X75LGXT.js?v=aa8227a0:1254
+await in execute
+mutate @ chunk-7X75LGXT.js?v=aa8227a0:2630
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:3295
+onClick @ content-preview.tsx:328
+callCallback2 @ chunk-Z2GUPSCO.js?v=aa8227a0:3674
+invokeGuardedCallbackDev @ chunk-Z2GUPSCO.js?v=aa8227a0:3699
+invokeGuardedCallback @ chunk-Z2GUPSCO.js?v=aa8227a0:3733
+invokeGuardedCallbackAndCatchFirstError @ chunk-Z2GUPSCO.js?v=aa8227a0:3736
+executeDispatch @ chunk-Z2GUPSCO.js?v=aa8227a0:7014
+processDispatchQueueItemsInOrder @ chunk-Z2GUPSCO.js?v=aa8227a0:7034
+processDispatchQueue @ chunk-Z2GUPSCO.js?v=aa8227a0:7043
+dispatchEventsForPlugins @ chunk-Z2GUPSCO.js?v=aa8227a0:7051
+(anonymous) @ chunk-Z2GUPSCO.js?v=aa8227a0:7174
+batchedUpdates$1 @ chunk-Z2GUPSCO.js?v=aa8227a0:18913
+batchedUpdates @ chunk-Z2GUPSCO.js?v=aa8227a0:3579
+dispatchEventForPluginEventSystem @ chunk-Z2GUPSCO.js?v=aa8227a0:7173
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-Z2GUPSCO.js?v=aa8227a0:5478
+dispatchEvent @ chunk-Z2GUPSCO.js?v=aa8227a0:5472
+dispatchDiscreteEvent @ chunk-Z2GUPSCO.js?v=aa8227a0:5449Understand this error

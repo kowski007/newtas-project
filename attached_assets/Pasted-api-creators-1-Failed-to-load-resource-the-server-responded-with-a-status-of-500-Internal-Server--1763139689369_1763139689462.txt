@@ -1,0 +1,2795 @@
+api/creators:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)Understand this error
+@privy-io_react-auth.js?v=aa8227a0:78678 Base Account SDK Initialized
+embedded-wallets-de929449bf483552.js?dpl=dpl_Ek83zoS7cE47q3sTwNDKWUEPErv4:1 Warning!
+embedded-wallets-de929449bf483552.js?dpl=dpl_Ek83zoS7cE47q3sTwNDKWUEPErv4:1 You are reading this message because you opened the browser console, a developer tool. Do not enter or paste code you do not understand. Never share your tokens or any other info with anyone. If someone told you to do this, it is very likely a scam.
+embedded-wallets?cai…bfd5-e9c247701e0a:1 Uncaught (in promise) SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at p (embedded-wallets-de929449bf483552.js?dpl=dpl_Ek83zoS7cE47q3sTwNDKWUEPErv4:1:17960)Understand this error
+chunk-S6EXHY4W.js?v=aa8227a0:23 Lit is in dev mode. Not recommended for production! See https://lit.dev/msg/dev-mode for more information.
+issueWarning @ chunk-S6EXHY4W.js?v=aa8227a0:23Understand this warning
+chunk-Z2GUPSCO.js?v=aa8227a0:521 Warning: validateDOMNesting(...): <div> cannot appear as a descendant of <p>.
+    at div
+    at O14 (https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@privy-io_react-auth.js?v=aa8227a0:33085:6)
+    at p
+    at O14 (https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@privy-io_react-auth.js?v=aa8227a0:33085:6)
+    at lo4.HelpText (https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@privy-io_react-auth.js?v=aa8227a0:71435:1252)
+    at div
+    at O14 (https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@privy-io_react-auth.js?v=aa8227a0:33085:6)
+    at lo4.Footer (https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@privy-io_react-auth.js?v=aa8227a0:71435:1039)
+    at div
+    at O14 (https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@privy-io_react-auth.js?v=aa8227a0:33085:6)
+    at div
+    at O14 (https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@privy-io_react-auth.js?v=aa8227a0:33085:6)
+    at lo4 (https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@privy-io_react-auth.js?v=aa8227a0:71430:24)
+    at mo3 (https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@privy-io_react-auth.js?v=aa8227a0:71449:26)
+    at ef2 (https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@privy-io_react-auth.js?v=aa8227a0:74249:29)
+    at component (https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@privy-io_react-auth.js?v=aa8227a0:74290:121)
+    at div
+    at O14 (https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@privy-io_react-auth.js?v=aa8227a0:33085:6)
+    at Vs4 (https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@privy-io_react-auth.js?v=aa8227a0:79852:42)
+    at div
+    at div
+    at O14 (https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@privy-io_react-auth.js?v=aa8227a0:33085:6)
+    at $s4 (https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@privy-io_react-auth.js?v=aa8227a0:79860:40)
+    at div
+    at O14 (https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@privy-io_react-auth.js?v=aa8227a0:33085:6)
+    at div
+    at O14 (https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@privy-io_react-auth.js?v=aa8227a0:33085:6)
+    at Ye5 (https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@privy-io_react-auth.js?v=aa8227a0:68686:38)
+    at c41 (https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@privy-io_react-auth.js?v=aa8227a0:67708:23)
+    at Fe6 (https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@privy-io_react-auth.js?v=aa8227a0:68552:21)
+    at Le6 (https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@privy-io_react-auth.js?v=aa8227a0:68613:44)
+    at div
+    at O14 (https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@privy-io_react-auth.js?v=aa8227a0:33085:6)
+    at div
+    at O14 (https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@privy-io_react-auth.js?v=aa8227a0:33085:6)
+    at C18 (https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@privy-io_react-auth.js?v=aa8227a0:65461:23)
+    at div
+    at w19 (https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@privy-io_react-auth.js?v=aa8227a0:68396:40)
+    at https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@privy-io_react-auth.js?v=aa8227a0:67843:71
+    at https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@privy-io_react-auth.js?v=aa8227a0:65362:15
+    at l42 (https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@privy-io_react-auth.js?v=aa8227a0:67794:74)
+    at D17 (https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@privy-io_react-auth.js?v=aa8227a0:67834:17)
+    at div
+    at https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@privy-io_react-auth.js?v=aa8227a0:67817:24
+    at S15 (https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@privy-io_react-auth.js?v=aa8227a0:67828:13)
+    at l42 (https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@privy-io_react-auth.js?v=aa8227a0:67794:74)
+    at s56 (https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@privy-io_react-auth.js?v=aa8227a0:67711:26)
+    at https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@privy-io_react-auth.js?v=aa8227a0:68641:38
+    at j23 (https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@privy-io_react-auth.js?v=aa8227a0:68332:26)
+    at $e5 (https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@privy-io_react-auth.js?v=aa8227a0:68676:21)
+    at c41 (https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@privy-io_react-auth.js?v=aa8227a0:67708:23)
+    at Fe6 (https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@privy-io_react-auth.js?v=aa8227a0:68552:21)
+    at Ie4 (https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@privy-io_react-auth.js?v=aa8227a0:68589:15)
+    at Ds3 (https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@privy-io_react-auth.js?v=aa8227a0:79845:24)
+    at Ks4 (https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@privy-io_react-auth.js?v=aa8227a0:79863:20)
+    at Hr3 (https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@privy-io_react-auth.js?v=aa8227a0:71269:13)
+    at oc2 (https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@privy-io_react-auth.js?v=aa8227a0:72008:24)
+    at Ma2 (https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@privy-io_react-auth.js?v=aa8227a0:70615:24)
+    at Xc3 (https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@privy-io_react-auth.js?v=aa8227a0:80783:17)
+    at dp (https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@privy-io_react-auth.js?v=aa8227a0:72525:23)
+    at Dr3 (https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@privy-io_react-auth.js?v=aa8227a0:71123:24)
+    at Jc3 (https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@privy-io_react-auth.js?v=aa8227a0:80771:22)
+    at AppPrivyProvider (https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/src/lib/privy-provider.tsx:104:36)
+    at Hydrate (https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-JDSYYENI.js?v=aa8227a0:3554:11)
+    at WagmiProvider (https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-JDSYYENI.js?v=aa8227a0:3578:11)
+    at QueryClientProvider (https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-7X75LGXT.js?v=aa8227a0:2805:3)
+    at App (https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/src/App.tsx?v=AYGwR3tXoLS_wlDuUVeXr:180:39)
+printWarning @ chunk-Z2GUPSCO.js?v=aa8227a0:521Understand this error
+2notification-bell.tsx:126 🔌 Connecting to Socket.IO with userId: did:privy:cmhz3kdan01aljo0ckj2cbnb3
+SmartAccountContext.tsx:73 ⏳ Starting wallet readiness watcher...
+privy-provider.tsx:29 User logged in: Object
+app-layout.tsx:344 [AppLayout] Unread message count: 0
+api/creators/privy/did:privy:cmhz3kdan01aljo0ckj2cbnb3:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)Understand this error
+socket-client.ts:38 ✅ Socket connected
+notifications:1  Failed to load resource: the server responded with a status of 401 (Unauthorized)Understand this error
+api/creators/sync:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)Understand this error
+privy-provider.tsx:45 ❌ Failed to sync creator profile: Object
+handleLogin @ privy-provider.tsx:45Understand this error
+socket-client.ts:38 ✅ Socket connected
+2notification-bell.tsx:126 🔌 Connecting to Socket.IO with userId: 0xB4f90951cc948f1c778761d9252326bBC18423D3
+privy-provider.tsx:29 User logged in: Object
+SmartAccountContext.tsx:135 💼 Found wallet: privy
+SmartAccountContext.tsx:151 🔐 Initializing smart account on Base...
+SmartAccountContext.tsx:152 📡 Using Pimlico Paymaster: Base Mainnet
+SmartAccountContext.tsx:169 👤 Owner address: 0xB4f90951cc948f1c778761d9252326bBC18423D3
+app-layout.tsx:344 [AppLayout] Unread message count: 0
+api/creators/sync:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)Understand this error
+privy-provider.tsx:45 ❌ Failed to sync creator profile: Object
+handleLogin @ privy-provider.tsx:45Understand this error
+2socket-client.ts:38 ✅ Socket connected
+SmartAccountContext.tsx:188 ✅ Smart account created: 0x4C3dFa5B8C33b780Fc4cE04629cD98CA9E79ce84
+SmartAccountContext.tsx:223 ✅ Smart account client ready
+SmartAccountContext.tsx:224 📍 Smart account address: 0x4C3dFa5B8C33b780Fc4cE04629cD98CA9E79ce84
+2socket-client.ts:38 ✅ Socket connected
+notifications:1  Failed to load resource: the server responded with a status of 401 (Unauthorized)Understand this error
+api/creators/sync:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)Understand this error
+profile.tsx:90 Failed to ensure creator exists: Error: 500: {"error":"Failed to sync creator profile","details":"[object Object]"}
+    at throwIfResNotOk (queryClient.ts:6:11)
+    at async apiRequest (queryClient.ts:29:3)
+    at async ensureCreator (profile.tsx:78:26)
+ensureCreator @ profile.tsx:90Understand this error
+api/coins:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)Understand this error
+api/creators/privy/did:privy:cmhz3kdan01aljo0ckj2cbnb3:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)Understand this error
+api/creators/privy/did:privy:cmhz3kdan01aljo0ckj2cbnb3:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)Understand this error
+api/creators/privy/did:privy:cmhz3kdan01aljo0ckj2cbnb3:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)Understand this error
+api/creators/privy/did:privy:cmhz3kdan01aljo0ckj2cbnb3:1  Failed to load resource: the server responded with a status of 500 (Internal Server Error)Understand this error
+notifications:1  Failed to load resource: the server responded with a status of 401 (Unauthorized)Understand this error
+notifications:1  Failed to load resource: the server responded with a status of 401 (Unauthorized)Understand this error
+app-layout.tsx:344 [AppLayout] Unread message count: 0
+notifications:1  Failed to load resource: the server responded with a status of 401 (Unauthorized)Understand this error
+4app-layout.tsx:344 [AppLayout] Unread message count: 0
+notifications:1  Failed to load resource: the server responded with a status of 401 (Unauthorized)Understand this error
+notifications:1  Failed to load resource: the server responded with a status of 401 (Unauthorized)Understand this error
+notifications:1  Failed to load resource: the server responded with a status of 401 (Unauthorized)Understand this error
+app-layout.tsx:344 [AppLayout] Unread message count: 0
+notifications:1  Failed to load resource: the server responded with a status of 401 (Unauthorized)Understand this error
+notifications:1  Failed to load resource: the server responded with a status of 401 (Unauthorized)Understand this error
+notifications:1  Failed to load resource: the server responded with a status of 401 (Unauthorized)Understand this error
+app-layout.tsx:344 [AppLayout] Unread message count: 0
+notifications:1  Failed to load resource: the server responded with a status of 401 (Unauthorized)Understand this error
+notifications:1  Failed to load resource: the server responded with a status of 401 (Unauthorized)Understand this error
+notifications:1  Failed to load resource: the server responded with a status of 401 (Unauthorized)Understand this error
+chunk-BS7PNIHB.js?v=aa8227a0:339 Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+(anonymous) @ chunk-BS7PNIHB.js?v=aa8227a0:339Understand this warning
+app-layout.tsx:344 [AppLayout] Unread message count: 0
+notification-bell.tsx:60  GET https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/api/e1xp/notifications 401 (Unauthorized)
+queryFn @ notification-bell.tsx:60
+await in queryFn
+fetchFn @ chunk-7X75LGXT.js?v=aa8227a0:840
+run @ chunk-7X75LGXT.js?v=aa8227a0:494
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245Understand this error
+notification-bell.tsx:60  GET https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/api/e1xp/notifications 401 (Unauthorized)
+queryFn @ notification-bell.tsx:60
+await in queryFn
+fetchFn @ chunk-7X75LGXT.js?v=aa8227a0:840
+run @ chunk-7X75LGXT.js?v=aa8227a0:494
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245Understand this error
+notification-bell.tsx:60  GET https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/api/e1xp/notifications 401 (Unauthorized)
+queryFn @ notification-bell.tsx:60
+await in queryFn
+fetchFn @ chunk-7X75LGXT.js?v=aa8227a0:840
+run @ chunk-7X75LGXT.js?v=aa8227a0:494
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245Understand this error
+app-layout.tsx:344 [AppLayout] Unread message count: 0
+notification-bell.tsx:60  GET https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/api/e1xp/notifications 401 (Unauthorized)
+queryFn @ notification-bell.tsx:60
+await in queryFn
+fetchFn @ chunk-7X75LGXT.js?v=aa8227a0:840
+run @ chunk-7X75LGXT.js?v=aa8227a0:494
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245Understand this error
+notification-bell.tsx:60  GET https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/api/e1xp/notifications 401 (Unauthorized)
+queryFn @ notification-bell.tsx:60
+await in queryFn
+fetchFn @ chunk-7X75LGXT.js?v=aa8227a0:840
+run @ chunk-7X75LGXT.js?v=aa8227a0:494
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245Understand this error
+app-layout.tsx:344 [AppLayout] Unread message count: 0
+notification-bell.tsx:60  GET https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/api/e1xp/notifications 401 (Unauthorized)
+queryFn @ notification-bell.tsx:60
+await in queryFn
+fetchFn @ chunk-7X75LGXT.js?v=aa8227a0:840
+run @ chunk-7X75LGXT.js?v=aa8227a0:494
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245Understand this error
+notification-bell.tsx:60  GET https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/api/e1xp/notifications 401 (Unauthorized)
+queryFn @ notification-bell.tsx:60
+await in queryFn
+fetchFn @ chunk-7X75LGXT.js?v=aa8227a0:840
+run @ chunk-7X75LGXT.js?v=aa8227a0:494
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245Understand this error
+notification-bell.tsx:60  GET https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/api/e1xp/notifications 401 (Unauthorized)
+queryFn @ notification-bell.tsx:60
+await in queryFn
+fetchFn @ chunk-7X75LGXT.js?v=aa8227a0:840
+run @ chunk-7X75LGXT.js?v=aa8227a0:494
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245Understand this error
+app-layout.tsx:344 [AppLayout] Unread message count: 0
+notification-bell.tsx:60  GET https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/api/e1xp/notifications 401 (Unauthorized)
+queryFn @ notification-bell.tsx:60
+await in queryFn
+fetchFn @ chunk-7X75LGXT.js?v=aa8227a0:840
+run @ chunk-7X75LGXT.js?v=aa8227a0:494
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245Understand this error
+notification-bell.tsx:60  GET https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/api/e1xp/notifications 401 (Unauthorized)
+queryFn @ notification-bell.tsx:60
+await in queryFn
+fetchFn @ chunk-7X75LGXT.js?v=aa8227a0:840
+run @ chunk-7X75LGXT.js?v=aa8227a0:494
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245Understand this error
+notification-bell.tsx:60  GET https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/api/e1xp/notifications 401 (Unauthorized)
+queryFn @ notification-bell.tsx:60
+await in queryFn
+fetchFn @ chunk-7X75LGXT.js?v=aa8227a0:840
+run @ chunk-7X75LGXT.js?v=aa8227a0:494
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245Understand this error
+app-layout.tsx:344 [AppLayout] Unread message count: 0
+notification-bell.tsx:60  GET https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/api/e1xp/notifications 401 (Unauthorized)
+queryFn @ notification-bell.tsx:60
+await in queryFn
+fetchFn @ chunk-7X75LGXT.js?v=aa8227a0:840
+run @ chunk-7X75LGXT.js?v=aa8227a0:494
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245Understand this error
+notification-bell.tsx:60  GET https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/api/e1xp/notifications 401 (Unauthorized)
+queryFn @ notification-bell.tsx:60
+await in queryFn
+fetchFn @ chunk-7X75LGXT.js?v=aa8227a0:840
+run @ chunk-7X75LGXT.js?v=aa8227a0:494
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245Understand this error
+notification-bell.tsx:60  GET https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/api/e1xp/notifications 401 (Unauthorized)
+queryFn @ notification-bell.tsx:60
+await in queryFn
+fetchFn @ chunk-7X75LGXT.js?v=aa8227a0:840
+run @ chunk-7X75LGXT.js?v=aa8227a0:494
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245Understand this error
+app-layout.tsx:344 [AppLayout] Unread message count: 0
+notification-bell.tsx:60  GET https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/api/e1xp/notifications 401 (Unauthorized)
+queryFn @ notification-bell.tsx:60
+await in queryFn
+fetchFn @ chunk-7X75LGXT.js?v=aa8227a0:840
+run @ chunk-7X75LGXT.js?v=aa8227a0:494
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245Understand this error
+notification-bell.tsx:60  GET https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/api/e1xp/notifications 401 (Unauthorized)
+queryFn @ notification-bell.tsx:60
+await in queryFn
+fetchFn @ chunk-7X75LGXT.js?v=aa8227a0:840
+run @ chunk-7X75LGXT.js?v=aa8227a0:494
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245Understand this error
+notification-bell.tsx:60  GET https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/api/e1xp/notifications 401 (Unauthorized)
+queryFn @ notification-bell.tsx:60
+await in queryFn
+fetchFn @ chunk-7X75LGXT.js?v=aa8227a0:840
+run @ chunk-7X75LGXT.js?v=aa8227a0:494
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245Understand this error
+app-layout.tsx:344 [AppLayout] Unread message count: 0
+notification-bell.tsx:60  GET https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/api/e1xp/notifications 401 (Unauthorized)
+queryFn @ notification-bell.tsx:60
+await in queryFn
+fetchFn @ chunk-7X75LGXT.js?v=aa8227a0:840
+run @ chunk-7X75LGXT.js?v=aa8227a0:494
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245Understand this error
+content-preview.tsx:74 🚀 Creating coin on chain: Base Mainnet
+content-preview.tsx:107 📤 Uploading metadata to IPFS...
+pinata.ts:4 PINATA_JWT available: true
+pinata.ts:5 Environment variables: {VITE_PINATA_JWT: true, VITE_PINATA_API_KEY: true, VITE_NEXT_PUBLIC_GATEWAY_URL: true}
+content-preview.tsx:109 ✅ Metadata uploaded: ipfs://QmbzuDPkmBg1qWEwFNkECuQip5T3qMNSBq3txz4519sdWk
+content-preview.tsx:112 💾 Creating database record...
+content-preview.tsx:116 📍 Using creator wallet address: 0xB4f90951cc948f1c778761d9252326bBC18423D3
+queryClient.ts:22  POST https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/api/coins 400 (Bad Request)
+apiRequest @ queryClient.ts:22
+mutationFn @ content-preview.tsx:132
+await in mutationFn
+fn @ chunk-7X75LGXT.js?v=aa8227a0:1189
+run @ chunk-7X75LGXT.js?v=aa8227a0:494
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+execute @ chunk-7X75LGXT.js?v=aa8227a0:1225
+await in execute
+mutate @ chunk-7X75LGXT.js?v=aa8227a0:2630
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:3295
+onClick @ content-preview.tsx:328
+callCallback2 @ chunk-Z2GUPSCO.js?v=aa8227a0:3674
+invokeGuardedCallbackDev @ chunk-Z2GUPSCO.js?v=aa8227a0:3699
+invokeGuardedCallback @ chunk-Z2GUPSCO.js?v=aa8227a0:3733
+invokeGuardedCallbackAndCatchFirstError @ chunk-Z2GUPSCO.js?v=aa8227a0:3736
+executeDispatch @ chunk-Z2GUPSCO.js?v=aa8227a0:7014
+processDispatchQueueItemsInOrder @ chunk-Z2GUPSCO.js?v=aa8227a0:7034
+processDispatchQueue @ chunk-Z2GUPSCO.js?v=aa8227a0:7043
+dispatchEventsForPlugins @ chunk-Z2GUPSCO.js?v=aa8227a0:7051
+(anonymous) @ chunk-Z2GUPSCO.js?v=aa8227a0:7174
+batchedUpdates$1 @ chunk-Z2GUPSCO.js?v=aa8227a0:18913
+batchedUpdates @ chunk-Z2GUPSCO.js?v=aa8227a0:3579
+dispatchEventForPluginEventSystem @ chunk-Z2GUPSCO.js?v=aa8227a0:7173
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-Z2GUPSCO.js?v=aa8227a0:5478
+dispatchEvent @ chunk-Z2GUPSCO.js?v=aa8227a0:5472
+dispatchDiscreteEvent @ chunk-Z2GUPSCO.js?v=aa8227a0:5449Understand this error
+content-preview.tsx:204 ❌ Coin creation failed: Error: 400: {"error":"Invalid coin data","details":"[object Object]"}
+    at throwIfResNotOk (queryClient.ts:6:11)
+    at async apiRequest (queryClient.ts:29:3)
+    at async Object.mutationFn (content-preview.tsx:132:27)
+onError @ content-preview.tsx:204
+execute @ chunk-7X75LGXT.js?v=aa8227a0:1254
+await in execute
+mutate @ chunk-7X75LGXT.js?v=aa8227a0:2630
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:3295
+onClick @ content-preview.tsx:328
+callCallback2 @ chunk-Z2GUPSCO.js?v=aa8227a0:3674
+invokeGuardedCallbackDev @ chunk-Z2GUPSCO.js?v=aa8227a0:3699
+invokeGuardedCallback @ chunk-Z2GUPSCO.js?v=aa8227a0:3733
+invokeGuardedCallbackAndCatchFirstError @ chunk-Z2GUPSCO.js?v=aa8227a0:3736
+executeDispatch @ chunk-Z2GUPSCO.js?v=aa8227a0:7014
+processDispatchQueueItemsInOrder @ chunk-Z2GUPSCO.js?v=aa8227a0:7034
+processDispatchQueue @ chunk-Z2GUPSCO.js?v=aa8227a0:7043
+dispatchEventsForPlugins @ chunk-Z2GUPSCO.js?v=aa8227a0:7051
+(anonymous) @ chunk-Z2GUPSCO.js?v=aa8227a0:7174
+batchedUpdates$1 @ chunk-Z2GUPSCO.js?v=aa8227a0:18913
+batchedUpdates @ chunk-Z2GUPSCO.js?v=aa8227a0:3579
+dispatchEventForPluginEventSystem @ chunk-Z2GUPSCO.js?v=aa8227a0:7173
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-Z2GUPSCO.js?v=aa8227a0:5478
+dispatchEvent @ chunk-Z2GUPSCO.js?v=aa8227a0:5472
+dispatchDiscreteEvent @ chunk-Z2GUPSCO.js?v=aa8227a0:5449Understand this error
+notification-bell.tsx:60  GET https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/api/e1xp/notifications 401 (Unauthorized)
+queryFn @ notification-bell.tsx:60
+await in queryFn
+fetchFn @ chunk-7X75LGXT.js?v=aa8227a0:840
+run @ chunk-7X75LGXT.js?v=aa8227a0:494
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245Understand this error
+content-preview.tsx:74 🚀 Creating coin on chain: Base Mainnet
+content-preview.tsx:107 📤 Uploading metadata to IPFS...
+pinata.ts:4 PINATA_JWT available: true
+pinata.ts:5 Environment variables: {VITE_PINATA_JWT: true, VITE_PINATA_API_KEY: true, VITE_NEXT_PUBLIC_GATEWAY_URL: true}
+content-preview.tsx:109 ✅ Metadata uploaded: ipfs://QmbzuDPkmBg1qWEwFNkECuQip5T3qMNSBq3txz4519sdWk
+content-preview.tsx:112 💾 Creating database record...
+content-preview.tsx:116 📍 Using creator wallet address: 0xB4f90951cc948f1c778761d9252326bBC18423D3
+queryClient.ts:22  POST https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/api/coins 400 (Bad Request)
+apiRequest @ queryClient.ts:22
+mutationFn @ content-preview.tsx:132
+await in mutationFn
+fn @ chunk-7X75LGXT.js?v=aa8227a0:1189
+run @ chunk-7X75LGXT.js?v=aa8227a0:494
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+execute @ chunk-7X75LGXT.js?v=aa8227a0:1225
+await in execute
+mutate @ chunk-7X75LGXT.js?v=aa8227a0:2630
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:3295
+onClick @ content-preview.tsx:328
+callCallback2 @ chunk-Z2GUPSCO.js?v=aa8227a0:3674
+invokeGuardedCallbackDev @ chunk-Z2GUPSCO.js?v=aa8227a0:3699
+invokeGuardedCallback @ chunk-Z2GUPSCO.js?v=aa8227a0:3733
+invokeGuardedCallbackAndCatchFirstError @ chunk-Z2GUPSCO.js?v=aa8227a0:3736
+executeDispatch @ chunk-Z2GUPSCO.js?v=aa8227a0:7014
+processDispatchQueueItemsInOrder @ chunk-Z2GUPSCO.js?v=aa8227a0:7034
+processDispatchQueue @ chunk-Z2GUPSCO.js?v=aa8227a0:7043
+dispatchEventsForPlugins @ chunk-Z2GUPSCO.js?v=aa8227a0:7051
+(anonymous) @ chunk-Z2GUPSCO.js?v=aa8227a0:7174
+batchedUpdates$1 @ chunk-Z2GUPSCO.js?v=aa8227a0:18913
+batchedUpdates @ chunk-Z2GUPSCO.js?v=aa8227a0:3579
+dispatchEventForPluginEventSystem @ chunk-Z2GUPSCO.js?v=aa8227a0:7173
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-Z2GUPSCO.js?v=aa8227a0:5478
+dispatchEvent @ chunk-Z2GUPSCO.js?v=aa8227a0:5472
+dispatchDiscreteEvent @ chunk-Z2GUPSCO.js?v=aa8227a0:5449Understand this error
+content-preview.tsx:204 ❌ Coin creation failed: Error: 400: {"error":"Invalid coin data","details":"[object Object]"}
+    at throwIfResNotOk (queryClient.ts:6:11)
+    at async apiRequest (queryClient.ts:29:3)
+    at async Object.mutationFn (content-preview.tsx:132:27)
+onError @ content-preview.tsx:204
+execute @ chunk-7X75LGXT.js?v=aa8227a0:1254
+await in execute
+mutate @ chunk-7X75LGXT.js?v=aa8227a0:2630
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:3295
+onClick @ content-preview.tsx:328
+callCallback2 @ chunk-Z2GUPSCO.js?v=aa8227a0:3674
+invokeGuardedCallbackDev @ chunk-Z2GUPSCO.js?v=aa8227a0:3699
+invokeGuardedCallback @ chunk-Z2GUPSCO.js?v=aa8227a0:3733
+invokeGuardedCallbackAndCatchFirstError @ chunk-Z2GUPSCO.js?v=aa8227a0:3736
+executeDispatch @ chunk-Z2GUPSCO.js?v=aa8227a0:7014
+processDispatchQueueItemsInOrder @ chunk-Z2GUPSCO.js?v=aa8227a0:7034
+processDispatchQueue @ chunk-Z2GUPSCO.js?v=aa8227a0:7043
+dispatchEventsForPlugins @ chunk-Z2GUPSCO.js?v=aa8227a0:7051
+(anonymous) @ chunk-Z2GUPSCO.js?v=aa8227a0:7174
+batchedUpdates$1 @ chunk-Z2GUPSCO.js?v=aa8227a0:18913
+batchedUpdates @ chunk-Z2GUPSCO.js?v=aa8227a0:3579
+dispatchEventForPluginEventSystem @ chunk-Z2GUPSCO.js?v=aa8227a0:7173
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-Z2GUPSCO.js?v=aa8227a0:5478
+dispatchEvent @ chunk-Z2GUPSCO.js?v=aa8227a0:5472
+dispatchDiscreteEvent @ chunk-Z2GUPSCO.js?v=aa8227a0:5449Understand this error
+notification-bell.tsx:60  GET https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/api/e1xp/notifications 401 (Unauthorized)
+queryFn @ notification-bell.tsx:60
+await in queryFn
+fetchFn @ chunk-7X75LGXT.js?v=aa8227a0:840
+run @ chunk-7X75LGXT.js?v=aa8227a0:494
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245Understand this error
+app-layout.tsx:344 [AppLayout] Unread message count: 0
+notification-bell.tsx:60  GET https://f621eb7c-8913-4fcd-82c0-e2997f30a57c-00-2t0wpxpagzesz.worf.replit.dev/api/e1xp/notifications 401 (Unauthorized)
+queryFn @ notification-bell.tsx:60
+await in queryFn
+fetchFn @ chunk-7X75LGXT.js?v=aa8227a0:840
+run @ chunk-7X75LGXT.js?v=aa8227a0:494
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245
+setInterval
+updateRefetchInterval_fn @ chunk-7X75LGXT.js?v=aa8227a0:2243
+updateTimers_fn @ chunk-7X75LGXT.js?v=aa8227a0:2250
+onQueryUpdate @ chunk-7X75LGXT.js?v=aa8227a0:2206
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:998
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:997
+batch @ chunk-7X75LGXT.js?v=aa8227a0:583
+dispatch_fn @ chunk-7X75LGXT.js?v=aa8227a0:996
+onError @ chunk-7X75LGXT.js?v=aa8227a0:861
+reject @ chunk-7X75LGXT.js?v=aa8227a0:465
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:508
+Promise.catch
+run @ chunk-7X75LGXT.js?v=aa8227a0:498
+start @ chunk-7X75LGXT.js?v=aa8227a0:536
+fetch @ chunk-7X75LGXT.js?v=aa8227a0:926
+executeFetch_fn @ chunk-7X75LGXT.js?v=aa8227a0:2211
+(anonymous) @ chunk-7X75LGXT.js?v=aa8227a0:2245Understand this error

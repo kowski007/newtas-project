@@ -1,0 +1,13 @@
+{
+  "url": "https://basescan.org/verifyContract?a=0x2ea259ccD2e983f9E635f138b28655d62127F6Bb",
+  "compilerType": "Solidity (Single file)",
+  "compilerVersion": "v0.8.30+commit.73712a01",
+  "license": "MIT",
+  "optimization": true,
+  "runs": 200,
+  "evmVersion": "paris",
+  "constructorArguments": "000000000000000000000000d657131ed517c53eabaeb2f0ee66de91c40ed74b",
+  "constructorArgumentsDecoded": {
+    "platformWallet": "0xd657131ed517c53eabaeb2f0ee66de91c40ed74b"
+  }
+}
